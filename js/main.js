@@ -6,7 +6,7 @@ $(document).ready(function(){
             'cm-name': {
                 required: true
             },
-            'cm-jhkihd-jhkihd': {
+            'cm-olyv-olyv': {
                 required: true,
                 email: true
             }
