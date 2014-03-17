@@ -149,3 +149,13 @@ label {
     -webkit-border-radius: 3px;
     border-radius: 3px;
 }
+
+
+.archive-container {
+    margin-bottom: 20px;
+}
+
+.archive {
+    margin: 40px 0 20px 0;
+    text-align: center;
+}
