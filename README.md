@@ -1,4 +1,4 @@
-PyLadies Australia
-==========
 
-Source code for australia.pyladies.com
+  - link to active groups
+  - link to join slack
+  - link to fb page
